@@ -1,4 +1,4 @@
-# DataValidator [![Build Status](https://travis-ci.org/SpringMT/redis_json_serializer.png)](https://travis-ci.org/SpringMT/redis_json_serializer)
+# RedisJsonSerializer [![Build Status](https://travis-ci.org/SpringMT/redis_json_serializer.png)](https://travis-ci.org/SpringMT/redis_json_serializer)
 
 ## Installation
 
