@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Spring_MT"]
   s.email       = ["today.is.sky.blue.sky@gmail.com"]
   s.homepage    = "https://github.com/SpringMT/redis_json_serializer"
-  s.summary     = %q{}
+  s.summary     = %q{json serializer for redis}
 
   s.rubyforge_project = "redis_json_serializer"
 
