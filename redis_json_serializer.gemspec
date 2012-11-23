@@ -21,5 +21,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'redis-namespace', '~> 1.2'
 
   s.description = <<description
+  Store data by converting JSON to redis
 description
 end
